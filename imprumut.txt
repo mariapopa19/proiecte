@@ -1,0 +1,3 @@
+Catana|Elena|6070523270030| 582345432 _Amintiri din copilarie_Herra_true_ 654345672 _Arta manipularii_Globo_true_ |2022-02-01|2022-02-10|
+Catana|Elena|6070523270030| 987654322 _Casa Gucci_Nemira_true_ |2022-01-29|2022-02-15|
+Chindea|Valentin|5070220274811| 456745674 _Eseul_Bac_true_ |2022-01-29|2022-02-20|

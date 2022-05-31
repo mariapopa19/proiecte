@@ -1,0 +1,20 @@
+ 592345643 _Alegerea_Pandora_false_
+ 582345432 _Amintiri din copilarie_Herra_true_
+ 654345672 _Arta manipularii_Globo_true_
+ 552345432 _Atomic Habits_Clear_false_
+ 098765421 _Baiatul cu pijamale in dungi_John_false_
+ 372345652 _Biblioteca de la miezul noptii_Nemira_false_
+ 987654322 _Casa Gucci_Nemira_true_
+ 543456760 _Copiii Capitanului Grant_Adevarul_false_
+ 867567893 _Creierul Idiot_Baroque_false_
+ 412345432 _Curajul de a nu fi pe placul celorlalti_Funi_false_
+ 382345432 _Despre sensul vietii_Bookzone_false_
+ 012346543 _Dieta mintii_Scoala_false_
+ 456745674 _Eseul_Bac_true_
+ 657653212 _Ganduri catre sine insusi_Humanitas_false_
+ 058765432 _Inocentii_Human_false_
+ 121312321 _Moara Cu Noroc_Ilustrata_true_
+ 923456543 _Pacienta tacuta_Buzz_false_
+ 234567812 _Padurea Spanzuratilor_Paralela45_false_
+ 345678987 _Un baiat numit Craciun_Nemi_false_
+ 245678902 _Vindecarea copilului interior_Litera_false_
