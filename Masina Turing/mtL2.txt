@@ -1,0 +1,22 @@
+q0
+q11
+q0 q1 B B R
+q1 q2 a B R
+q2 q3 a B R
+q3 q3 b b R
+q3 q3 a a R
+q3 q4 B B L
+q4 q5 b B L
+q5 q5 a a L
+q5 q5 b b L
+q5 q6 B B R
+q6 q7 a B R
+q7 q8 a B R
+q8 q8 a a R
+q8 q8 b b R
+q8 q9 B B L
+q9 q10 b B L
+q10 q10 a a L
+q10 q10 b b L
+q10 q6 B B R
+q6 q11 B B R
